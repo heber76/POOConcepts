@@ -13,6 +13,7 @@
       <HashCode>AAACAEAAAAAAAAAEEAAQAAQAAAAAAAAIAAAAAAAAAAg=</HashCode>
       <FileName>Employee.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="POOConcepts.SalaryEmployee">
     <Position X="6.25" Y="0.5" Width="1.5" />
@@ -28,5 +29,26 @@
       <FileName>CommissionEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="POOConcepts.HourlyEmployee">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAAAAAAAAAAABAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>HourlyEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POOConcepts.BaseCommissionEmployee">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAQAA=</HashCode>
+      <FileName>BaseCommissionEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="POOConcepts.IPay">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>IPay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
